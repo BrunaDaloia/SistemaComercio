@@ -1,0 +1,17 @@
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.csprojAssemblyReference.cache
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.Form1.resources
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.Properties.Resources.resources
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.csproj.GenerateResource.cache
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.csproj.CoreCompileInputs.cache
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\SysComercio.exe.config
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\SysComercio.exe
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\SysComercio.pdb
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\CamadaApresentacao.dll
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\CamadaApresentacao.pdb
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.csproj.CopyComplete
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.exe
+C:\SistemaComercio\SysComercio\SysComercio\obj\Debug\SysComercio.pdb
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\CamadaNegocio.dll
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\CamadaDados.dll
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\CamadaNegocio.pdb
+C:\SistemaComercio\SysComercio\SysComercio\bin\Debug\CamadaDados.pdb
